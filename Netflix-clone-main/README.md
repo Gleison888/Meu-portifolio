@@ -1,4 +1,4 @@
-# meu portifolio ✨
+# meu portfolio ✨
 
 Esse foi meu projeto do meu portifolio, desenvolvido com HTML, CSS e JavaScript.
 O projeto teve como foco a prática de estruturação de páginas web, desenvolvimento de layouts responsivos e aplicação de efeitos visuais, visando ao aprimoramento das habilidades de front-end, e aprimorar meu portifolio no github
